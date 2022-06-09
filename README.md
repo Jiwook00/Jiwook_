@@ -2,21 +2,24 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hello%20world&fontSize=90)
 
-[![img](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg)](https://nestjs.com/) 
-[![img](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg)](https://nestjs.com/)
-[![img](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg)](https://nestjs.com/)
-
-<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
+<p align='center'> 유신사 테스트 </p>
 <p align='center'>
   <a href="https://nestjs.com">
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"/>
   </a>
   <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%E2%99%A1-danny%20-yellow"/>
   </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/%E2%99%A1-danny%20-yellow"/>
+  </a>  
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hello%20world&fontSize=90)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwook00&theme=gruvbox_light&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Jiwook00&theme=gruvbox_light&show_icons=true)
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=bye&fontSize=90)
 
 
 <!--
