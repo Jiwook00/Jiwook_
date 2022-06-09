@@ -2,17 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hello%20world&fontSize=90)
 
-<p align='center'> 유신사 테스트 </p>
+<p align='center'> </p>
 <p align='center'>
-  <a href="https://nestjs.com">
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"/>
+  <a href="https://padlet.com/zkkhkm9w5p/ksipwnhszw8krszn">
+    <img src="https://img.shields.io/badge/%EB%B0%A9%EB%AA%85%EB%A1%9D-danny-yellow"/>
   </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/%E2%99%A1-danny%20-yellow"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/%E2%99%A1-danny%20-yellow"/>
-  </a>  
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwook00&theme=gruvbox_light&show_icons=true$count_private=true&include_all_commits=true)
