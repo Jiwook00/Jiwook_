@@ -15,9 +15,8 @@
   </a>  
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwook00&theme=gruvbox_light&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwook00&theme=gruvbox_light&show_icons=true$count_private=true&include_all_commits=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Jiwook00&theme=gruvbox_light&show_icons=true)
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=bye&fontSize=90)
 
